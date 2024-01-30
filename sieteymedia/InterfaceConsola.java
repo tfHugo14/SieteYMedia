@@ -2,7 +2,6 @@ package sieteymedia;
 
 import recursos.Carta;
 import java.util.Scanner;
-
 public class InterfaceConsola{
     public static void main(String[] args) {
         SieteYMedia sieteYMedia = new SieteYMedia();
